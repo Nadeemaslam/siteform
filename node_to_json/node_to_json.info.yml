@@ -1,0 +1,9 @@
+name: node_to_json
+description: node_to_json.
+type: module
+core: '8.x'
+version : 8.3.1
+project: 'node_to_json'
+dependencies:
+  - node
+  - serialization
